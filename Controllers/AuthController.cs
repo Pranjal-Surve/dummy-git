@@ -4,7 +4,7 @@ using Authenticator2.DTO;
 using Authenticator2.Database;
 using OtpNet;
 using QRCoder;
-
+//This is AuthController
 namespace Authenticator2.Controllers
 {
     public class AuthController : ControllerBase
