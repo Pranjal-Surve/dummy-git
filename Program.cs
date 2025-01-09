@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore; //for Mysql n ORM
-using Authenticator2.Database;
+using Authenticator2.Database; //for database
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
